@@ -1,6 +1,9 @@
-# survey_hard_to_understand
-# user   should answer as '돈까스' or pork cutlet
-# opportunity is 3 time
+# survey_hard_to_understand 
+# (this survey has answer so it can be  IDLE survey
+
+# user should answer  '돈까스' or pork cutlet. 
+
+# opportunity are only 3 times.
 # so i name this project as # survey_hard_to_understand  because this survey is Irrational :)
 # _점심메뉴_설문조사_돈까스라고말해야끝나_기회는_3번
 # source from https://blog.naver.com/gjtnwjd40/221397419733
