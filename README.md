@@ -1,5 +1,5 @@
 # survey_hard_to_understand 
-# (this survey has answer so it can be  IDLE survey
+# this survey has answer so it can be  IDLE survey
 
 # user should answer  '돈까스' or pork cutlet. 
 
